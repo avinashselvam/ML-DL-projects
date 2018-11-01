@@ -10,7 +10,7 @@ AAPL Stock Prediction -> Uses Quandl to fetch data and uses basic regression to 
 
 Fashion MNIST -> a simple CNN to classify Fashion MNIST dataset
 
-XNOR Net (incomplete) -> Binarised input as well as weights, backprop requires comples tensorflow funtions
+XNOR Net [incomplete] -> Binarised input as well as weights, backprop requires comples tensorflow funtions
 
 age prediction -> kinda big network to predict age
 
